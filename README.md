@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akhil Reddy
-- 👀 I’m interested in AI
+- 👀 AI Enthusiast
 - 🌱 I’m currently learning  Deeplearning with pytorch
 <!--- 💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me ...
