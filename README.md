@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akhil Reddy
-- 👀 AI Enthusiast
+- 👀 ML/NLP Enthusiast
 <!--- 💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me ...
 ..............mail me at akhilreddy1531@gmail.com
